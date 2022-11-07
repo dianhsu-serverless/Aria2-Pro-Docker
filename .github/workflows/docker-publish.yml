@@ -58,3 +58,4 @@ jobs:
       run: |
         docker build -t registry.cn-shanghai.aliyuncs.com/dianhsu/aria2:latest .
         docker push registry.cn-shanghai.aliyuncs.com/dianhsu/aria2:latest
+
